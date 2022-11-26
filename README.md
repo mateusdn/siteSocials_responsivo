@@ -4,7 +4,7 @@
 <h2 align="center">site_redes_sociais</h2>
 
 
-<p> https://mateusdn.github.io/siteSocials_responsivo/ <\p>
+<p> https://mateusdn.github.io/siteSocials_responsivo/
 
 
 <p align="left">
